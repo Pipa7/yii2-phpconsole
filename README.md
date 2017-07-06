@@ -1,3 +1,4 @@
+
 Yii 2 PHP Console
 =================
 Extensão para integrar PHP Console com o Yii2
@@ -29,3 +30,5 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \pipa7\phpconsole\AutoloadExample::widget(); ?>```
+=======
+
