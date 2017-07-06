@@ -1,0 +1,21 @@
+{
+    "name": "pipa7/yii2-phpconsole",
+    "description": "Extensão para integrar PHP Console com o Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","php-console","debug"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pipa7",
+            "email": "voe@pipa7.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "pipa7\\phpconsole\\": ""
+        }
+    }
+}
